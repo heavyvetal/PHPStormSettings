@@ -1,15 +1,17 @@
 <scheme name="Roboticket Light viyar 3.0" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-01-31T11:27:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2020-07-26T12:55:14</property>
+    <property name="modified">2021-07-23T22:18:44</property>
     <property name="originalScheme">Roboticket Light viyar 3.0</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="7fde7b" />
     <option name="CARET_ROW_COLOR" value="e0e0ff" />
